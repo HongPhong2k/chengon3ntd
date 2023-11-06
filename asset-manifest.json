@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chengon3ntd/static/css/main.34d2aec2.css",
+    "main.js": "/chengon3ntd/static/js/main.a95f3bb4.js",
+    "static/js/787.174a0e6e.chunk.js": "/chengon3ntd/static/js/787.174a0e6e.chunk.js",
+    "static/media/Vong Quay 3NTD.png": "/chengon3ntd/static/media/Vong Quay 3NTD.82048d4122131e22092f.png",
+    "static/media/anh3.jpg": "/chengon3ntd/static/media/anh3.50160d8011fd3445c3b8.jpg",
+    "static/media/VongQuay-HoanMy-02.png": "/chengon3ntd/static/media/VongQuay-HoanMy-02.774626cc761c24be4bf5.png",
+    "static/media/banner.jpg": "/chengon3ntd/static/media/banner.e6b4b218008270405bca.jpg",
+    "static/media/anh2.jpg": "/chengon3ntd/static/media/anh2.0504c00403487c736a12.jpg",
+    "static/media/nutquay.png": "/chengon3ntd/static/media/nutquay.50b1c2a47b386e5842d3.png",
+    "static/media/mui ten.png": "/chengon3ntd/static/media/mui ten.c93b04aab04ec4e4e070.png",
+    "index.html": "/chengon3ntd/index.html",
+    "main.34d2aec2.css.map": "/chengon3ntd/static/css/main.34d2aec2.css.map",
+    "main.a95f3bb4.js.map": "/chengon3ntd/static/js/main.a95f3bb4.js.map",
+    "787.174a0e6e.chunk.js.map": "/chengon3ntd/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d2aec2.css",
+    "static/js/main.a95f3bb4.js"
+  ]
+}
